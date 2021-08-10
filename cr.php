@@ -148,7 +148,7 @@
             $('#recommendation').hide();
             var input;
             $.get('input.json', (data, status)=>{
-                input = JSON.parse(data);
+                input = JSON.parse(JSON.stringify(data));
             }).done(()=>{
                 
                 let opts = '<option value="" selected hidden disabled>Select state</option>';

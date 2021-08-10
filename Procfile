@@ -1,1 +1,1 @@
-web: bundle exec apache server -p $PORT
+web: exec apache server -p $PORT

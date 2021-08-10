@@ -1,1 +1,1 @@
-web: exec apache server -p $PORT
+web: vendor/bin/heroku-php-apache2

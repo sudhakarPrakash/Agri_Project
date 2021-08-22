@@ -30,8 +30,8 @@ data = [[state,district,2000,season,crop,area]]
 
 # load model from disk
 filename = "yp_RF_model.sav"
-# loaded_model = joblib.load(filename,"r")
-loaded_model = pickle.load(open(filename,"rb"))
+loaded_model = joblib.load(filename,'r')
+# loaded_model = pickle.load(open(filename,"rb"))
 
 # result = loaded_model.predict(np.array(data))
 result = loaded_model.predict(data)

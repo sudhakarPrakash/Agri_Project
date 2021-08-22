@@ -3,6 +3,7 @@ import json
 # import pandas as pd
 import joblib
 import numpy as np
+import pickle
 # import joblib
 # import sklearn
 # import matplotlib.pyplot as plt
@@ -28,7 +29,8 @@ data = np.array([[state,district,2000,season,crop,area]])
 
 # load model from disk
 filename = "yp_RF_model.sav"
-loaded_model = joblib.load(filename,"r")
+# loaded_model = joblib.load(filename,"r")
+loaded_model = pickle.load(open(filename,"rb"))
 
 result = loaded_model.predict(np.array(data))
 crop_yield = np.round(result,2)

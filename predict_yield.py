@@ -4,7 +4,6 @@ import json
 import joblib
 import numpy as np
 import pickle
-import numpy.random.bit_generator
 # import joblib
 # import sklearn
 # import matplotlib.pyplot as plt
@@ -26,14 +25,16 @@ season = mapping['le_Season_mapping'][season]
 crop = mapping['le_Crop_mapping'][crop]
 
 
-data = np.array([[state,district,2000,season,crop,area]])
+# data = np.array([[state,district,2000,season,crop,area]])
+data = [[state,district,2000,season,crop,area]]
 
 # load model from disk
 filename = "yp_RF_model.sav"
 # loaded_model = joblib.load(filename,"r")
 loaded_model = pickle.load(open(filename,"rb"))
 
-result = loaded_model.predict(np.array(data))
+# result = loaded_model.predict(np.array(data))
+result = loaded_model.predict(data)
 crop_yield = np.round(result,2)
 
 

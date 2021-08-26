@@ -135,14 +135,14 @@
     </footer> -->
       
       
-      <footer>
+<!--       <footer>
           <p>
               Developed by <b>MITians</b>
           </p> 
           <div class="media-icons">
               <a href="https://github.com/obaidmit" target="_blank"><i class="fab fa-github"></i></a>            
           </div>
-      </footer>
+      </footer> -->
       <footer>
         <div class=".container-fluid width p-3 my-3  text-center bg-secondary text-white">
           Developed by <b>MITians</b>

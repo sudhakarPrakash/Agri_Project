@@ -107,16 +107,18 @@
             
             </div>
             
-            <footer>
-                <p>
-                    Developed by <b>MITians</b>
-                </p> 
-                <div class="media-icons">
-                    <a href="https://github.com/obaidmit" target="_blank"><i class="fab fa-github"></i></a>            
-                </div>
-            </footer>
+            
             
         </div>
+		
+	<footer>
+	  <p>
+	    Developed by <b>MITians</b>
+	  </p> 
+	  <div class="media-icons">
+	    <a href="https://github.com/obaidmit" target="_blank"><i class="fab fa-github"></i></a>            
+	  </div>
+        </footer>
                
             
      

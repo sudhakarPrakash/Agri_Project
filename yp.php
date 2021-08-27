@@ -111,14 +111,14 @@
             
         </div>
 		
-	<footer>
+<!-- 	<footer>
 	  <p>
 	    Developed by <b>MITians</b>
 	  </p> 
 	  <div class="media-icons">
 	    <a href="https://github.com/obaidmit" target="_blank"><i class="fab fa-github"></i></a>            
 	  </div>
-        </footer>
+        </footer> -->
                
             
      
@@ -203,9 +203,17 @@
     </script>
     
     
+  
+	<footer>
+	  <p>
+	    Developed by <b>MITians</b>
+	  </p> 
+	  <div class="media-icons">
+	    <a href="https://github.com/obaidmit" target="_blank"><i class="fab fa-github"></i></a>            
+	  </div>
+	</footer>
 
-
-	</body>
+  </body>
 
 
 </html>

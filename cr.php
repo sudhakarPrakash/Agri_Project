@@ -56,7 +56,7 @@
             
             <div class="horizontal-container">
             
-                <div class="container " id="part2" >
+                <div class="container " id="part1" >
                     <div class="card myCard bg-pink p-2 m-3">
                         <!--<div class="myCard-img">
                             <img src="imgs/field.jpg" alt="">
@@ -81,7 +81,7 @@
                     <div class="scrollIndicator"></div>
                 </div>
                 
-                <div class="container" id="part1">
+                <div class="container" id="part2">
                     <div class="card shadow p-3">
                         <div class="card-header  text-center">
                             <h3>Crop Recommendation System </h3>

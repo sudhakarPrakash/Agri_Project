@@ -19,6 +19,8 @@
       <input type="checkbox" id="check">
       <header>
         </div>
+        <br></br>
+        <br></br>
         <h2><a href="index.php" class="logo">Smart Farming</a></h2>
         <div class="navigation">
         

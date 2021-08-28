@@ -48,7 +48,7 @@
 	<body onload="document.body.style.opacity='1.0'">
         <div class="main-container">
             
-            <div class="info p-3 m-5" style="color:  #969691">
+            <div class="info p-3 m-5" style="color:   #eae7ca">
                     <h1><b>CROP RECOMMENDATION <br><span><h2>using ML robust model</h2></span></b></h1>
 		    <br>
                     <p><h4><b>trained over past 19 years data built using Random Forest algorithm</b></h4></p>

@@ -106,7 +106,7 @@ body {
 }
 
 
-#part2.myCard {
+#part1.myCard {
     display: flex;
     flex-direction: column;
     border-radius: 10px;
@@ -119,19 +119,19 @@ body {
     filter: drop-shadow(4px 4px 15px rgba(0, 0, 0, 0.15));
     transition: 1.0s;
 }
-#part2 .myCard:hover {
+#part1 .myCard:hover {
 /*     transform: translateY(-10%); */
     cursor: pointer;
     transform: scale(1.03);
 }
 
-#part2 .myCard .myCard-title {
+#part1 .myCard .myCard-title {
     font-size: 1.5em;
     font-weight: bold;
     /*margin-top: 0.5em;*/
     margin-bottom: 0.5em;
 }
-#part2 .myCard .myCard-body {
+#part1 .myCard .myCard-body {
     opacity: 0.90;
 }
 

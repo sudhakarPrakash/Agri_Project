@@ -35,7 +35,7 @@ body {
     margin-bottom: 2em;
 }
 
-@media screen and (min-width: 850px) {
+@media screen and (max-width: 850px) {
   .horizontal-container {
     display: flex;
     flex-direction: column;

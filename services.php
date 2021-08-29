@@ -39,7 +39,7 @@
               <div class="card-body">
                 <h4 class="card-title">Farming Consultancy</h4>
                 <p class="card-text">Advise farmers and growers on how to improve the profitability, efficiency and sustainability of farm management systems.</p>
-                <a href="#contactus" class="btn btn-primary stretched-link">See Profile</a>
+                <a href="#contactus" class="btn btn-primary stretched-link">Contact us</a>
               </div>
             </div>
           </div>
@@ -50,7 +50,7 @@
               <div class="card-body">
                 <h4 class="card-title">Tree Plantation</h4>
                 <p class="card-text">Our ISA Certified Arborists are here to help guide you through the entire process from selecting the best tree to the proper planting techniques.</p>
-                <a href="#contactus" class="btn btn-primary stretched-link">See Profile</a>
+                <a href="#contactus" class="btn btn-primary stretched-link">Contact us</a>
               </div>
             </div>
           </div>
@@ -61,7 +61,7 @@
               <div class="card-body">
                 <h4 class="card-title">Contract Farming</h4>
                 <p class="card-text">Agricultural production carried out according to an agreement between a buyer and farmers, which establishes conditions for the production and marketing of a farm product or products</p>
-                <a href="#contactus" class="btn btn-primary stretched-link">See Profile</a>
+                <a href="#contactus" class="btn btn-primary stretched-link">Contact us</a>
               </div>
             </div>
           </div>
@@ -71,7 +71,7 @@
               <div class="card-body">
                 <h4 class="card-title">Credit Facility</h4>
                 <p class="card-text">Short term type of loan made in a business or corporate finance context. It allows the borrowing business to take out money over an extended period of time.</p>
-                <a href="#contactus" class="btn btn-primary stretched-link">See Profile</a>
+                <a href="#contactus" class="btn btn-primary stretched-link">Contact us</a>
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@
               <div class="card-body">
                 <h4 class="card-title">Soil Testing Labotary</h4>
                 <p class="card-text">Soil labs typically test for four properties of soil: texture, chemistry (phosphorous, potassium, iron, sulfates, certain micronutrients, soluble salts), pH, and organic matter</p>
-                <a href="#contactus" class="btn btn-primary stretched-link">See Profile</a>
+                <a href="#contactus" class="btn btn-primary stretched-link">Contact us</a>
               </div>
             </div>
           </div>
@@ -93,7 +93,7 @@
               <div class="card-body">
                 <h4 class="card-title">Machinery & Technological Service</h4>
                 <p class="card-text">The most common types of equipment and machinery used on farms include tractors, balers, combines, plows, mowers, planters, and sprayers</p>
-                <a href="#contactus" class="btn btn-primary stretched-link">See Profile</a>
+                <a href="#contactus" class="btn btn-primary stretched-link">Contact us</a>
               </div>
             </div>
           </div>
